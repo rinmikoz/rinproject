@@ -1,0 +1,2 @@
+# rinproject
+Bachelor dissertation 
